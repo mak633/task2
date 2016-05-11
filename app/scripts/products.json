@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Samsung TVs",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Apple Unlocked",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Apple Ipads",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Laptops",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Birkenstock",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Yeti Coolers",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Hoverboards",
+        "image": "1.jpg",
+        "quantity": "80"
+    },
+    {
+        "name": "Kitchenail Mixers",
+        "image": "1.jpg",
+        "quantity": "80"
+    }
+]
